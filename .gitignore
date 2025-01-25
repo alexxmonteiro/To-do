@@ -1,0 +1,26 @@
+# Eclipse
+/.settings/
+/.project
+.classpath
+
+# Diretórios de build
+/bin/
+/target/
+/build/
+
+# Dependências locais
+/.m2/
+/.gradle/
+
+# Arquivos de log
+*.log
+*.tmp
+
+# Arquivos temporários
+*~
+
+# Arquivos do Eclipse
+*.launch
+
+# Arquivos de backup
+*.bak
