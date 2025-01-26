@@ -25,11 +25,11 @@ public class Task {
 		this.tasks = tasks;
 	}
 
-	public String getHour() {
+	public String getDesc() {
 		return description;
 	}
 
-	public void setHour(String desc) {
+	public void setDesc(String desc) {
 		this.description = desc;
 	}
 }

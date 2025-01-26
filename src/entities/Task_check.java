@@ -48,6 +48,7 @@ public class Task_check {
 		this.task.add(task);
 	}
 	
+	//list remove operation
 	public void removeTask(Task task) {
 		this.task.remove(task);
 	}
